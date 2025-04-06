@@ -4,4 +4,12 @@ This project establishes communication between the HC-05 Bluetooth module and th
 
 The LM7805 is commonly known as a voltage regulator IC used to provide a stable +5V output. It is widely trusted for use in electronic circuits for commercial purposes, offering a reliable solution for powering devices that require a consistent 5V supply.
 
-![LM7805 Voltage Regulator]([https://example.com/path_to_image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.allelcoelec.com%2Fblog%2Flm7805-comprehensive-guide-pin-assignments%2Cparameters%2Cand-applications.html&psig=AOvVaw2rENzccp_zowrSHA82ismw&ust=1744009135443000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDMxbvqwowDFQAAAAAdAAAAABAE))
+![LM7805 Voltage Regulator](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiiNR3YoEhm055fUhNHdN4cLdQgYt0TnxPeg&s)
+### Pinout of LM7805 Voltage Regulator
+
+| Pin Number | Pin Name      | Function                                          |
+|------------|---------------|---------------------------------------------------|
+| 1          | Input Voltage (Vin) | Receives input voltage from 7V to 20V          |
+| 2          | Ground (GND)      | Connected to ground (mass)                      |
+| 3          | Output Voltage (Vout) | Provides output voltage from 4.85V to 5.15V  |
+
