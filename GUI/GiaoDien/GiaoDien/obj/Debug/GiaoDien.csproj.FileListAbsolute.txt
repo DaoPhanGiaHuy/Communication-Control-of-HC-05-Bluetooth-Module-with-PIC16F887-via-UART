@@ -1,0 +1,9 @@
+C:\Users\HIEU NGUYEN\Documents\DAKTNC\GiaoDien\GiaoDien\bin\Debug\GiaoDien.exe.config
+C:\Users\HIEU NGUYEN\Documents\DAKTNC\GiaoDien\GiaoDien\bin\Debug\GiaoDien.exe
+C:\Users\HIEU NGUYEN\Documents\DAKTNC\GiaoDien\GiaoDien\bin\Debug\GiaoDien.pdb
+C:\Users\HIEU NGUYEN\Documents\DAKTNC\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csprojResolveAssemblyReference.cache
+C:\Users\HIEU NGUYEN\Documents\DAKTNC\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Form1.resources
+C:\Users\HIEU NGUYEN\Documents\DAKTNC\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Properties.Resources.resources
+C:\Users\HIEU NGUYEN\Documents\DAKTNC\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csproj.GenerateResource.Cache
+C:\Users\HIEU NGUYEN\Documents\DAKTNC\GiaoDien\GiaoDien\obj\Debug\GiaoDien.exe
+C:\Users\HIEU NGUYEN\Documents\DAKTNC\GiaoDien\GiaoDien\obj\Debug\GiaoDien.pdb
